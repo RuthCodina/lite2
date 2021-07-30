@@ -23,15 +23,15 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 When you are viewing the application, the first screen will be [http://localhost:5000](http://localhost:5000), where you can find the navbar and the form to create the user, use it and create your first character.
 
   <div>
-  <img height="500" src="frontend/src/assets/create user form.jpg" />
+  <img height="500" src="./frontend/src/assets/create user form.jpg" />
   </div> 
 you will also have the opportunity to click on 'User List' and there you will be able to visualize the list of users you have just created and from there you will have the opportunity to delete them and click on 'edit' to edit it After clicking on edit you will be directed to the edit form, which takes into account the id of the user you clicked and if you click on get info, it will fill the form with the data stored in the database of that user, in order to remind you and then you can change what you want to change, 'update' and then return to the list of users to delete, view or edit another user.
   <div>
-     <img height="500" src="frontend/src/assets/userList.jpg" />
+     <img height="500" src="./frontend/src/assets/userList.jpg" />
   </div>
 
 After clicking on edit you will be directed to the edit form, which takes into account the id of the user you clicked and if you click on get info, it will fill the form with the data stored in the database of that user, in order to remind you and then you can change what you want to change, 'update' and then return to the list of users to delete, view or edit another user.
 
   <div>
-     <img height="500" src="frontend/src/assets/updateUser.jpg" />
+     <img height="500" src="./frontend/src/assets/updateUser.jpg" />
   </div>
